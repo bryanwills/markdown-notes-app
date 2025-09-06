@@ -7,3 +7,5 @@ https://github.com/gsantner/markor - Android Markor app
 https://github.com/purocean/yn
 
 Take from the above resources to create my own markdown notes system.
+
+#### Import/export to Notion
